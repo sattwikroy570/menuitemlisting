@@ -19,3 +19,4 @@ C:\Users\2085786\source\repos\MenuItemListing\MenuItemListing\obj\Debug\netcorea
 C:\Users\2085786\source\repos\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.dll
 C:\Users\2085786\source\repos\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.pdb
 C:\Users\2085786\source\repos\MenuItemListing\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.genruntimeconfig.cache
+C:\Users\2085786\source\repos\MenuItemListing\MenuItemListing\bin\Debug\netcoreapp3.1\menuitemys.yml
