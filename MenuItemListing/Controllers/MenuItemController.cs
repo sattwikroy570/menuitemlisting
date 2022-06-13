@@ -5,13 +5,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using MenuItemListing.Models;
-using System.Web.Http;
 
 namespace MenuItemListing.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
     public class MenuItemController : ControllerBase
     {
         [HttpGet]
