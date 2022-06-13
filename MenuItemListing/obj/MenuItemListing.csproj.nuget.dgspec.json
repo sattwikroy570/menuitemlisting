@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2085786\\source\\repos\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj": {}
+    "C:\\Users\\PrinceMJ\\Desktop\\Cloud Practise Check\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2085786\\source\\repos\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj": {
+    "C:\\Users\\PrinceMJ\\Desktop\\Cloud Practise Check\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2085786\\source\\repos\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
+        "projectUniqueName": "C:\\Users\\PrinceMJ\\Desktop\\Cloud Practise Check\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
         "projectName": "MenuItemListing",
-        "projectPath": "C:\\Users\\2085786\\source\\repos\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
-        "packagesPath": "C:\\Users\\2085786\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2085786\\source\\repos\\MenuItemListing\\MenuItemListing\\obj\\",
+        "projectPath": "C:\\Users\\PrinceMJ\\Desktop\\Cloud Practise Check\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
+        "packagesPath": "C:\\Users\\PrinceMJ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PrinceMJ\\Desktop\\Cloud Practise Check\\MenuItemListing\\MenuItemListing\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\2085786\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PrinceMJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
