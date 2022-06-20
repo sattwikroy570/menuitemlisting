@@ -618,11 +618,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work & Study\\Stage 4\\ict\\cloud practice\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
+      "projectUniqueName": "D:\\Work & Study\\Cloud Practice Check\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
       "projectName": "MenuItemListing",
-      "projectPath": "D:\\Work & Study\\Stage 4\\ict\\cloud practice\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
+      "projectPath": "D:\\Work & Study\\Cloud Practice Check\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
       "packagesPath": "C:\\Users\\BABIN\\.nuget\\packages\\",
-      "outputPath": "D:\\Work & Study\\Stage 4\\ict\\cloud practice\\MenuItemListing\\MenuItemListing\\obj\\",
+      "outputPath": "D:\\Work & Study\\Cloud Practice Check\\MenuItemListing\\MenuItemListing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -674,24 +674,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.25, 3.1.25]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
