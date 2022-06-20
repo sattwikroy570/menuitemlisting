@@ -15,7 +15,7 @@ spec:
         app: MenuItemListing
     spec:
       containers:
-      - name: DNAzureACRCase0
+      - name: dnazureacrcase0
         image: dnazureacrcase0.azurecr.io/dnazureacr:latest
         ports:
         - containerPort: 8080
