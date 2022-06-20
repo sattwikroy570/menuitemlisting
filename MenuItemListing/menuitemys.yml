@@ -15,12 +15,12 @@ spec:
         app: MenuItemListing
     spec:
       containers:
-      - name: dnazureacrcase
-        image: dnazureacrcase.azurecr.io/dnazureacr:latest
+      - name: DNAzureACRCase0
+        image: dnazureacrcase0.azurecr.io/dnazureacr:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:
-      - name: webiapisecretkey
+      - name: webapisecretkey
 ---
 apiVersion: v1
 kind: Service
